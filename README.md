@@ -27,26 +27,27 @@ For more information about this project, access [link](http://gse.ufsc.br/bezerr
 
 # Repository Structure
 * master Branch  
-├── README.md   
-├── code - Folder with codes of a working version android app
+├── README.md
+├── Code merged
 * pdt branch  
 ├── Documentation - Product Tree Diagram Documentation  
-├── code - Folder with codes of a working version android app 
 * requirements branch  
 ├── Documentation - Project Requirements Documentation  
-├── code - Folder with codes of a working version android app
 * wbs branch  
 ├── Documentation - Work Breakdown Structure Documentation  
-├── code - Folder with codes of a working version android app
 * schedule branch  
 ├── Documentation - Schedule Documentation  
-├── code - Folder with codes of a working version android app
 * class_diagram branch  
 ├── Documentation - Class Diagram Documentation  
-├── code - Folder with codes of a working version android app  
 * usecase branch  
 ├── Documentation - Use Case Documentation  
-├── code - Folder with codes of a working version android app
+
+|   Part of the project      |  Folders  |
+| :---                       |:---           |       
+| Android app or related     | AndroidHTTP, AndroidTCP, Android_screens, ServerTCP, full_app |
+| Leon3/Atlys board          | Ru_board, libraries |
+| Webserver/Raspberry Pi     | back-end, front-end |
+| Documentation              | Documentation, sequence_diagram, test_plan |
 
 
 ~$ Team Batata
