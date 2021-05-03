@@ -27,7 +27,7 @@ For more information about this project, access [link](http://gse.ufsc.br/bezerr
 
 # Repository Structure
 * master Branch  
-├── README.md
+├── README.md<br/>
 ├── Code merged
 * pdt branch  
 ├── Documentation - Product Tree Diagram Documentation  
